@@ -8,7 +8,9 @@
 <!------------------------------------------------------------>
 <!-- Topic: Title slide -->
 
-<img style="max-height: 300px;" src="images/quadcopter_cover.png">
+<iframe width="640" height="480" src="https://sketchfab.com/models/6ea595564fcc4b82b372015c7a06e81b/embed" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+
+<!--img style="max-height: 300px;" src="images/quadcopter_cover.png"-->
 <h2>Getting into UAV’s for under $700</h2>
 <h4>...and having fun every step of the way!</h4>
 <p>
