@@ -108,6 +108,12 @@ Prop Guards + Extra battery + Camera mount(~$50)
 <br>
 "The Rig"
 
+--SUBSLIDE--
+
+<img style="max-height: 450px;" src="images/gimbal.jpg">
+<br>
+Gimbal
+
 <!------------------------------------------------------------>
 --SLIDE--
 <!-- Topic: Why is this so interesting now ... -->
@@ -312,7 +318,7 @@ Textured Mesh
 
 <!------------------------------------------------------------>
 --SLIDE--
-<!-- Topic: Future ... -->
+<!-- Topic: Examples ... -->
 
 <h2><span style="color:#ff0000;">More Examples</span></h2>
 
@@ -368,9 +374,9 @@ Automation, DEM's, 3D printing, etc
 
 --SUBSLIDE--
 
-<img style="max-height: 450px;" src="images/bundler.png">
+<img style="max-height: 450px;" src="images/opendronemap.png">
 <br>
-Automation (bundler_sfm)
+Automation (OpenDroneMap)
 
 --SUBSLIDE--
 
