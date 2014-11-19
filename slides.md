@@ -72,12 +72,6 @@ Hardware options...
 
 --SUBSLIDE--
 
-<img style="max-height: 450px;" src="images/phantom_fc40.jpg">
-<br>
-Phantom FC40 (~$450)
-
---SUBSLIDE--
-
 <img style="max-height: 450px;" src="images/hack_quad.jpg">
 <br>
 Fully DIY
@@ -90,7 +84,13 @@ Big Crazy Scary
 
 --SUBSLIDE--
 
-I choose RTF (Ready To Fly) and then Hack It!
+I choose low cost RTF (Ready To Fly) and then Hack It!
+
+--SUBSLIDE--
+
+<img style="max-height: 450px;" src="images/phantom_fc40.jpg">
+<br>
+Phantom FC40 (~$450)
 
 --SUBSLIDE--
 
