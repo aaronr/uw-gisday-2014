@@ -318,6 +318,24 @@ Textured Mesh
 
 --SUBSLIDE--
 
+<img style="max-height: 450px;" src="images/pipes1.jpg">
+<br>
+Flying Brightwater Treatment Plant
+
+--SUBSLIDE--
+
+<img style="max-height: 450px;" src="images/pipes2.jpg">
+<br>
+Flight Paths
+
+--SUBSLIDE--
+
+<img style="max-height: 450px;" src="images/pipes3.jpg">
+<br>
+Photoscan SFM Rendering
+
+--SUBSLIDE--
+
 <img style="max-height: 450px;" src="images/chewy_textured.png">
 <br>
 Chewy
