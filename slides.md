@@ -28,7 +28,7 @@
 --SLIDE--
 <!-- Topic: Introduce myself -->
 
-  <h3>Computer Science</h3>
+  <h3>Computer Science (UW Alum!)</h3>
   <h2><span style="color:#ff0000;">Bridging the Gap</span></h2>
   <h3>Environmental Science</h3>
 
@@ -39,7 +39,7 @@
 
 <!------------------------------------------------------------>
 --SLIDE--
-<!-- Topic: Hardware setup ... -->
+<!-- Topic: How did we get here ... -->
 
 How did we get here?
 
@@ -59,7 +59,7 @@ CUGOS "Google Guys"
 
 --SUBSLIDE--
 
-<img style="max-height: 450px;" src="images/jump_video.png">
+<img style="max-height: 450px;" src="images/jumpline_90.png">
 <br>
 Video the bikes!
 
@@ -83,6 +83,12 @@ FPV camera (FC40)(720p)
 <img style="max-height: 450px;" src="images/canon.jpg">
 <br>
 Canon (elph 130 16MP) downward facing (CHDK) (~$130)
+
+--SUBSLIDE--
+
+<img style="max-height: 450px;" src="images/flytrex.jpg">
+<br>
+Flytrex Data Logger (~$50)
 
 --SUBSLIDE--
 
