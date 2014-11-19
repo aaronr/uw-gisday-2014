@@ -119,8 +119,8 @@ Gimbal
 <!-- Topic: Why is this so interesting now ... -->
 
 Why is this so interesting now...
-<p class="fragment"><img style="max-height: 450px;" src="images/price_drop.jpg"></p>
-<p class="fragment">$$$$$ Cheap $$$$$</p>
+<p><img style="max-height: 450px;" src="images/price_drop.jpg"></p>
+<p>$$$$$ Cheap $$$$$</p>
 
 --SUBSLIDE--
 
