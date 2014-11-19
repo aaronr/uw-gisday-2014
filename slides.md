@@ -68,9 +68,29 @@ Video the bikes!
 --SLIDE--
 <!-- Topic: Hardware setup ... -->
 
+Hardware options...
+
+--SUBSLIDE--
+
 <img style="max-height: 450px;" src="images/phantom_fc40.jpg">
 <br>
 Phantom FC40 (~$450)
+
+--SUBSLIDE--
+
+<img style="max-height: 450px;" src="images/hack_quad.jpg">
+<br>
+Fully DIY
+
+--SUBSLIDE--
+
+<img style="max-height: 450px;" src="images/big_drone.jpg">
+<br>
+Big Crazy Scary
+
+--SUBSLIDE--
+
+I choose RTF (Ready To Fly) and then Hack It!
 
 --SUBSLIDE--
 
@@ -113,6 +133,12 @@ Prop Guards + Extra battery + Camera mount(~$50)
 <img style="max-height: 450px;" src="images/gimbal.jpg">
 <br>
 Gimbal
+
+--SUBSLIDE--
+
+<img style="max-height: 450px;" src="images/hack.jpg">
+<br>
+Hack
 
 <!------------------------------------------------------------>
 --SLIDE--
