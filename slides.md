@@ -173,6 +173,13 @@ https://www.mapbox.com/drone/no-fly/
 
 <!------------------------------------------------------------>
 --SLIDE--
+<!-- Topic: Example captured before talk ... -->
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/8q7gg41LHik?list=UU1gRk1Hq5i97tCpto0E7Reg" frameborder="0" allowfullscreen></iframe>
+Video taken a few minutes before talk...
+
+<!------------------------------------------------------------>
+--SLIDE--
 <!-- Topic: Interesting workflows ... -->
 
 <h2><span style="color:#ff0000;">Workflow #1</span></h2>
