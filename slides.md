@@ -380,6 +380,12 @@ Automation (OpenDroneMap)
 
 --SUBSLIDE--
 
+<img style="max-height: 450px;" src="images/opendronemap_workinghard.png">
+<br>
+OpenDroneMap working hard!
+
+--SUBSLIDE--
+
 <img style="max-height: 450px;" src="images/dem.png">
 <br>
 DEM's
