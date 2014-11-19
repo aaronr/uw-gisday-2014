@@ -176,6 +176,7 @@ https://www.mapbox.com/drone/no-fly/
 <!-- Topic: Example captured before talk ... -->
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/8q7gg41LHik?list=UU1gRk1Hq5i97tCpto0E7Reg" frameborder="0" allowfullscreen></iframe>
+<br>
 Video taken a few minutes before talk...
 
 <!------------------------------------------------------------>
